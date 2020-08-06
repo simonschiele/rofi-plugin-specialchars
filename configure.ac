@@ -1,4 +1,4 @@
-AC_INIT([rofi-plugin-template], [0.0.1], [https://my-neat-plugin.org//],[],[https://support.my-neat-plugin.org/])
+AC_INIT([rofi-plugin-specialchars], [0.0.1], [https://github.com/simonschiele/rofi-plugin-specialchars//],[],[https://github.com/simonschiele/rofi-plugin-specialchars/])
 
 AC_CONFIG_HEADER([config.h])
 
