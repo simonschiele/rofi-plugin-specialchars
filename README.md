@@ -1,13 +1,9 @@
-# Rofi plugin template
-
-Template for creating rofi plugins.
-
-To run this you need an up to date checkout of rofi git installed.
+# Rofi plugins 'specialchars'
 
 Run rofi like:
 
 ```bash
-    rofi -show myplugin -modi myplugin 
+    rofi -theme arthur -modi "emojis,kaomojis" -show emojis
 ```
 
 ## Compilation
@@ -20,7 +16,8 @@ Run rofi like:
 
 ### Installation
 
-**Rofi-plugin-template** uses autotools as build system. If installing from git, the following steps should install it:
+**rofi-plugin-specialchars** uses autotools as build system. If installing from
+git, the following steps should install it:
 
 ```bash
 $ autoreconf -i
