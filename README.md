@@ -23,7 +23,8 @@ git, the following steps should install it:
 $ autoreconf -i
 $ mkdir build
 $ cd build/
-$ ../configure
+# (prefix example for debian)
+$ ../configure --prefix=/usr/lib/x86_64-linux-gnu
 $ make
 $ make install
 ```
