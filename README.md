@@ -28,3 +28,8 @@ $ ../configure --prefix=/usr/lib/x86_64-linux-gnu
 $ make
 $ make install
 ```
+
+## Thanks
+
+Heavily inspired by rofi-emoji (https://github.com/Mange/rofi-emoji). Maybe I will
+throw the ideas of this plugin on a copy of theirs instead. Will see...
